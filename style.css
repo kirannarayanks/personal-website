@@ -1,0 +1,79 @@
+*
+{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+h2:hover
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.header{
+    width: 100%;
+    height: 4em;
+    background: linear-gradient(to bottom,rgb(255, 61, 61),#fff);
+    position: sticky;
+    color: rgb(0, 0, 0);
+}
+
+.propic
+{
+    width: 10rem;
+    height: 30rem;
+    overflow: hidden;
+}
+.details
+{
+    color: #000000;
+    width: 10rem;
+    height: 30rem;
+    padding:8em;
+    background: linear-gradient(to bottom,rgb(228, 228, 228),rgb(255, 61, 61));
+    border-bottom: 1px solid #ffffff;
+
+}
+.nav
+{
+    background: linear-gradient(to bottom,rgb(255, 61, 61),#ffffff);
+}
+.about
+{
+    width: 10rem;
+    height: 30rem;
+    color:#000000;
+    background: linear-gradient(to bottom,rgb(228, 228, 228),rgb(255, 61, 61));
+    overflow:hidden;
+}
+.projects
+{
+    border: 2px solid #ffffff ;
+    background-color: rgb(102, 101, 100);
+    
+}
+.social
+{
+    width: 3rem;
+    height: 3rem;
+}
+
+.contact
+{
+    border: 1px solid white;
+    color: black;
+    background: linear-gradient(to bottom,rgb(255, 61, 61),#fff);
+}
+footer
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 61, 61);
+}
+.image
+{
+    overflow: hidden;
+    margin-left: -10rem;
+}
+.imag
+{
+    margin-top: 1rem;
+    margin-left: -3rem;
+    
+}
